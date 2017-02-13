@@ -4,6 +4,6 @@ self.$config = {
     landing:true,
     nav: [
         {title: 'Home', path: './README.md'},
-        {title: '中文文档', path: '/language/chinese'}
+        {title: 'PMS对接注意事项', path: './PMS/PMS对接注意事项.md'}
     ]
 };
