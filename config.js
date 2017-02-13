@@ -8,7 +8,7 @@ self.$config = {
         {
             title: 'PMS',
             type: 'dropdown',
-            exact: true,
+            // exact: true,
             items: [{
                 title: 'PMS对接注意事项',
                 path: '/PMS/PMS对接注意事项.md'
