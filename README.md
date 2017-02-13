@@ -1,4 +1,4 @@
 # docute
-[test](!test.md)
+[test](test.md)
 just start writing...
 test
