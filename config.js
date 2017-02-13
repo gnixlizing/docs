@@ -5,4 +5,4 @@ self.$config = {
        {title:'Home',path:'/'},
        {title:'中文文档',path:'/language/chinese'}
    ]
-}
+};
